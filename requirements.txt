@@ -5,4 +5,6 @@ sklearn==0.0.post1
 Plost==0.2.5
 streamlit==1.18.1
 matplotlib==3.7.0
-
+seaborn
+ProfileReport
+st_profile_report
